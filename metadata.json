@@ -1,0 +1,6 @@
+{
+  "name": "মেহের-নেগার (Meher-Negar) - কাজী নজরুল ইসলাম",
+  "description": "কাজী নজরুল ইসলামের অমর প্রেমের গল্প 'মেহের-নেগার'-এর সম্পূর্ণ পাঠ ও Gemini 3.8 Flash TTS চালিত শ্রুতি-কাহিনি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
